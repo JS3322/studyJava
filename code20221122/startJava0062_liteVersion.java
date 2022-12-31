@@ -20,12 +20,13 @@ main()
 ----matchPlayers_lite(play1, play2);
  */
 
-public class startJava0052_liteVersion {
+public class startJava0062_liteVersion {
 
     static ArrayList<Integer> winRPS = new ArrayList<>();
 
 
-    public static void main(String[] args) {
+    //기존 liteVersion 가위바위보 게임의 main시작점에서 gameStart()로 변경
+    public static void gameStart() {
         
         //1. 유저와 컴퓨터와 가위바위보 하는 메서드를 만들고 추가하기 (최대한 기능을 구분하여(다수 메서드 생성) 코드구현)
         //2. 메뉴 중에 로그를 보는 기능을 완성하여 추가하기
@@ -45,15 +46,10 @@ public class startJava0052_liteVersion {
                 //가위바위보 게임 실행 (유저)
                 startGameUserVSCom();
             }else if(choice.equals("2")) {
-                //가위바위보 게임 종료
-                for (int i = 0 ; i<50000; i++) {
-                    startGameComVSCom();
-                }
-            }else if(choice.equals("3")) {
                 //기록 보기
                 getLog();
                 getModel0001Log();
-            }else if(choice.equals("4")) {
+            }else if(choice.equals("3")) {
                 //가위바위보 게임 종료
                 break;
             }else if(choice.equals("0")) {
@@ -146,7 +142,11 @@ public class startJava0052_liteVersion {
             System.out.println("무승부");
         }
         System.out.println("player1 = "+play1+" // player2 = "+play2);
-        winRPS.add(addResult);
+        //accounts : main메서드의 전역변수 : log인스턴스를 저장하는 가변배열
+        startJava0061.accounts
+                .get(startJava0061.loginUserIndex)
+                .setList(new startJava0061_rps_log(addResult, winPlayer1));
+        //setList() : 상속받은 자식클래스 extends_log_ver 클래스에서 만든 메서드
 
         return winPlayer1;
     }
@@ -166,9 +166,8 @@ public class startJava0052_liteVersion {
 
     private static void viewInfo() {
         System.out.println("1. 게임 실행(User VS Com)");
-        System.out.println("2. 게임 실행(Com VS Com)");
-        System.out.println("3. 기록 보기");
-        System.out.println("4. 게임 종료");
+        System.out.println("2. 기록 보기");
+        System.out.println("3. 게임 종료");
         System.out.println("0. 모델링 적용 게임(기록보기 진행 후 눌러주세요)");
     }
 

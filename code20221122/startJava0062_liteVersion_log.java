@@ -1,4 +1,4 @@
-public class startJava0052_liteVersion_log {
+public class startJava0062_liteVersion_log {
     static int WinRockCount = 0;
     static int WinPaperCount = 0;
     static int WinScissorsCount = 0;

@@ -3,8 +3,9 @@ import java.math.BigDecimal;
 public class startJava0051 {
 
     //todo 20221121
-    //6. 가위바위보 게임을 객체지향 코드를 리팩토링하고 로그 기능 추가
-    //4. 가위바위보 게임을 객체지향으로 변형 및 통계분석하고 예측하기
+    //1. 가위바위보 게임을 객체지향 코드를 리팩토링하고 로그 기능 추가
+    //2. 가위바위보 게임을 통계분석하고 예측하기
+    //3. 2진수의 10진수 계산 오류와 BigDecimal 타입
 
     public static void main(String[] args) {
 
