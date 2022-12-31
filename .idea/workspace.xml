@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0931a587-351b-48fc-8cad-e7325412b7a2" name="변경" comment="update">
+    <list default="true" id="0931a587-351b-48fc-8cad-e7325412b7a2" name="변경" comment="update2">
+      <change afterPath="$PROJECT_DIR$/code101_example/csv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/js/Cleancode/studyJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/js/Cleancode/study_java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -113,6 +114,8 @@
       <workItem from="1668930525985" duration="17000" />
       <workItem from="1668930566304" duration="3085000" />
       <workItem from="1668949778376" duration="776000" />
+      <workItem from="1672493603858" duration="236000" />
+      <workItem from="1672494253437" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1668933601159</created>
@@ -128,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668933833279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1672493705534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672493705534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update2">
+      <created>1672493762451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672493762451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +164,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
