@@ -1,5 +1,3 @@
-
-
 public class startJava0043_account {
     //필드
     String id;

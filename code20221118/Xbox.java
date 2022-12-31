@@ -1,5 +1,3 @@
-
-
 public class Xbox {
 
     String gameTitle;

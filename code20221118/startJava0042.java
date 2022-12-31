@@ -1,5 +1,3 @@
-
-
 public class startJava0042 {
 
     //클래스 class : 인스턴스(객체)를 만들기 위한 설계도

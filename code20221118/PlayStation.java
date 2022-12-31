@@ -1,5 +1,3 @@
-
-
 public class PlayStation {
     String gameTitle;
     int vol;

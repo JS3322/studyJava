@@ -1,5 +1,3 @@
-
-
 public class startJava0041_liteVersion {
 
 

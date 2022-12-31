@@ -1,5 +1,3 @@
-
-
 public class Speaker {
     int vol;
     String mod;

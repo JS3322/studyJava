@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 /*
@@ -39,26 +37,8 @@ public class startJava0041_menu {
         return false;
     }
 
-    private static String gameModelingComVSCom() {
-        
+    private static void gameModelingComVSCom() {
         startJava0041_rps_object.getLog();
-        int randomNum = getModelRandomNum();
-        String rps = "";
-        if(randomNum == 0) {
-            //가위
-            rps = startJava0041_rps_object.rps_grobal.get(0);
-        } else if (randomNum == 1) {
-            //바위
-            rps = startJava0041_rps_object.rps_grobal.get(1);
-        } else if (randomNum == 2) {
-            //보
-            rps = startJava0041_rps_object.rps_grobal.get(2);
-        }
-        return rps;
-    }
-
-    private static int getModelRandomNum() {
-        return 0;
     }
 
     private static void endGame() {
@@ -104,9 +84,13 @@ public class startJava0041_menu {
         System.out.println("플레이어 1은 "+startJava0041_rps_object.rps_grobal.get(p0)+"를 냈습니다");
         System.out.println("플레이어 2은 "+startJava0041_rps_object.rps_grobal.get(p1)+"를 냈습니다");
 
-       if(p0 > p1 | (p1 == 2 && p0 == 0)) {
+        if(p0 == 2 && p1 == 0) {
+            result =  1;
+        } else if(p1 == 2 && p0 == 0) {
             result =  0;
-        }else if(p0 < p1 | (p0 == 2 && p1 == 0)) {
+        }else if(p0 > p1) {
+            result =  0;
+        }else if(p0 < p1) {
             result =  1;
         }
         startJava0041_rps_object.addLog(result, p0);

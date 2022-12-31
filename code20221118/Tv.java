@@ -1,5 +1,3 @@
-
-
 public class Tv {
     //전역변수, 필드, 맴버변수
     String color;
