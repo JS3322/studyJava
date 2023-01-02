@@ -5,85 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0931a587-351b-48fc-8cad-e7325412b7a2" name="변경" comment="update2">
-      <change afterPath="$PROJECT_DIR$/reflection110_example/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflection110_example/reflection_example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/Camcorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/PlayStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/Speaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/Xbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/_etc/java05_0010_arrayListInit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/_etc/java50_0001_swingInit$OKAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/_etc/java50_0001_swingInit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java09_0091_questionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java80_0001_groupProject_calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java80_0002_groupProject_parkingSort_pass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java80_0004_groupProject_menuManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java80_0005_groupProject_accountInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0001_studentCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0002_programersCustomExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0010_CalcMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0011_projectMemberManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0090_studnetQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0091_studentQuestion1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0092_studentQuestion2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code00000010/java90_0092_studentQuestion3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220914/Java01_0001_init.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220914/StartJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220914/java02_0001_type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220914/java04_0001_forif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220915/java02_casting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220915/java03_operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220916/java03_operationPostPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220919/java03_memoryAndNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220920/java04_0002_forwhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220920/java04_0003_forwhile_airCon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220920/java04_0004_forwhile_airCon_for.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220920/java04_0005_randomAndEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220921/java04_0006_randomExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220922/java04_0007_groupProject_calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/code20220922/java04_0008_groupProject_calculator_switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0001_saveNumberList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0002_saveNumverSumAndAvg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0003_numberListBiggestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0004_sortNumberList_pass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0005_studentList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0006_studentRandomPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0007_accountManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/java05_0007_racingGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0013.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0021.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0022.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0023.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0024.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0031.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0032.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0033$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0033$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0033.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_liteVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_rps_object$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_rps_object$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0041_rps_object.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0042.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0043.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0043_account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0043_accountlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0051.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0052_liteVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0052_liteVersion_log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyJava/startJava0061.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,23 +41,24 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/cleancode/study_java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/cleancode/study_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cleancode\study_java" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
